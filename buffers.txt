@@ -1,0 +1,5 @@
+Buffer components						
+Buffer name	pKa	acid name	acid RMM	base name	base RMM	Notes
+Acetate	4.75	Acetic Acid	60.052	Sodium Acetate	82.0343	
+Bicarbonate	10.33	Sodium Bicarbonate	84.01	Sodium Carbonate	105.99	
+Carbonate	6.35	Carbonic Acid	62.02	Sodium Bicarbonate	84.01	Carbonic acid is formed from the interaction of Carbon Dioxide with water.
